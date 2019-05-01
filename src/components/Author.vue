@@ -8,12 +8,14 @@
 		</h1>
 
 		<p class="author__intro">
-			A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
+			{{ $static.metaData.siteDescription}}<br>
+			Founder of <a href="https://www.forefrontsoftware.com">Forefront Software</a> and <a href="https://www.ctosumo.com">CTO Sumo</a>
+
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/gridsome">Follow on Twitter</a>
-			<a href="//github.com/gridsome/gridsome-starter-blog">GitHub</a>
+			<a href="//twitter.com/wyoumansdev">Follow on Twitter</a>
+			<a href="//github.com/wyoumans">GitHub</a>
 		</p>
 
 	</div>
